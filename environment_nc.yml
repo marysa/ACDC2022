@@ -1,0 +1,42 @@
+name: ncfun
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - bzip2=1.0.8=h0d85af4_4
+  - c-ares=1.18.1=h0d85af4_0
+  - ca-certificates=2022.6.15=h033912b_0
+  - curl=7.83.1=h23f1065_0
+  - esmf=8.2.0=nompi_h92c19ad_0
+  - expat=2.4.8=h96cf925_0
+  - gsl=2.7=h93259b0_0
+  - hdf4=4.2.15=h0623a88_4
+  - hdf5=1.12.1=nompi_h0aa1fa2_104
+  - jpeg=9e=hac89ed1_2
+  - krb5=1.19.3=hb98e516_0
+  - libblas=3.9.0=16_osx64_openblas
+  - libcblas=3.9.0=16_osx64_openblas
+  - libcurl=7.83.1=h23f1065_0
+  - libcxx=14.0.6=hce7ea42_0
+  - libedit=3.1.20191231=h0678c8f_2
+  - libev=4.33=haf1e3a3_1
+  - libgfortran=5.0.0=10_4_0_h97931a8_25
+  - libgfortran5=11.3.0=h082f757_25
+  - liblapack=3.9.0=16_osx64_openblas
+  - libnetcdf=4.8.1=nompi_h6609ca0_102
+  - libnghttp2=1.47.0=h5aae05b_1
+  - libopenblas=0.3.21=openmp_h947e540_2
+  - libpng=1.6.37=h5481273_4
+  - libssh2=1.10.0=h47af595_3
+  - libzip=1.9.2=h6db710c_1
+  - libzlib=1.2.12=hfe4f2af_2
+  - llvm-openmp=14.0.4=ha654fa7_0
+  - nco=5.1.0=h1bf0434_0
+  - ncurses=6.3=h96cf925_1
+  - ncview=2.1.8=h90db0c5_3
+  - netcdf-fortran=4.5.4=nompi_h9ed14b0_100
+  - openssl=3.0.5=hb81d4ab_1
+  - tempest-remap=2.1.1=hb577637_0
+  - udunits2=2.2.28=h06ef574_0
+  - zlib=1.2.12=hfe4f2af_2
+prefix: /Users/mlague/opt/anaconda3/envs/ncfun
