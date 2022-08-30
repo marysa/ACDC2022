@@ -162,7 +162,7 @@ dependencies:
   - ncurses=6.3=hca72f7f_3
   - nest-asyncio=1.5.5=py39hecd8cb5_0
   - netcdf-fortran=4.5.4=nompi_h9ed14b0_100
-  - netcdf4=1.5.7=py39h4a1dd59_1
+  - netcdf4=1.6.0=nompi_py39h340a447_100
   - notebook=6.4.12=py39hecd8cb5_0
   - nspr=4.33=he9d5cce_0
   - nss=3.74=h47edf6a_0
